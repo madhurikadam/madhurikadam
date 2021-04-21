@@ -33,7 +33,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
-✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
+✔ Pronouns: ***TeamMaker***😉 <br>
 ✔ I’m currently Working On **Strato** Monitoring Tool **@Cloud Cover**<br>
 ✔ I’m currently using **AWS** & **Golang**  & **Grpc** <br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>

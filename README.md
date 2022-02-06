@@ -34,8 +34,8 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
 ✔ Pronouns: ***TeamMaker***😉 <br>
-✔ I’m currently Working On **Strato** Monitoring Tool **@Cloud Cover**<br>
-✔ I’m currently using **AWS** & **Golang**  & **Grpc** <br>
+✔ I’m currently as freelancer on multiple projects <br>
+✔ I’m currently using **AWS** & **Golang**  & **Grpc** **GraphQL** <br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
 ✔ I’m looking for help for learning **Azure **<br>
 ✔ I regularly read technical articles <br>

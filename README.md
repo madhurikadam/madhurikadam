@@ -37,7 +37,7 @@
 ✔ I’m currently as freelancer on multiple projects <br>
 ✔ I’m currently using **AWS** & **Golang**  & **Grpc** **GraphQL** <br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
-✔ I’m looking for help for learning **Azure **<br>
+✔ I’m looking for help for learning **Azure** <br>
 ✔ I regularly read technical articles <br>
 ✔ I use to write coad on [leetcode](https://leetcode.com/madhuri3/) <br>
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
